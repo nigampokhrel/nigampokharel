@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nigampokharel.git/static/css/main.2dd09e2f.css",
-    "main.js": "/nigampokharel.git/static/js/main.b8605b58.js",
-    "index.html": "/nigampokharel.git/index.html",
-    "main.2dd09e2f.css.map": "/nigampokharel.git/static/css/main.2dd09e2f.css.map",
-    "main.b8605b58.js.map": "/nigampokharel.git/static/js/main.b8605b58.js.map"
+    "main.css": "/nigampokharel/static/css/main.2dd09e2f.css",
+    "main.js": "/nigampokharel/static/js/main.b8605b58.js",
+    "index.html": "/nigampokharel/index.html",
+    "main.2dd09e2f.css.map": "/nigampokharel/static/css/main.2dd09e2f.css.map",
+    "main.b8605b58.js.map": "/nigampokharel/static/js/main.b8605b58.js.map"
   },
   "entrypoints": [
     "static/css/main.2dd09e2f.css",
