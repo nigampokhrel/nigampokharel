@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nigampokharel.git/static/css/main.2dd09e2f.css",
+    "main.js": "/nigampokharel.git/static/js/main.b8605b58.js",
+    "index.html": "/nigampokharel.git/index.html",
+    "main.2dd09e2f.css.map": "/nigampokharel.git/static/css/main.2dd09e2f.css.map",
+    "main.b8605b58.js.map": "/nigampokharel.git/static/js/main.b8605b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dd09e2f.css",
+    "static/js/main.b8605b58.js"
+  ]
+}
