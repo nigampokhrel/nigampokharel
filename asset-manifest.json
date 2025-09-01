@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nigampokharel/static/css/main.2dd09e2f.css",
-    "main.js": "/nigampokharel/static/js/main.b8605b58.js",
-    "index.html": "/nigampokharel/index.html",
-    "main.2dd09e2f.css.map": "/nigampokharel/static/css/main.2dd09e2f.css.map",
-    "main.b8605b58.js.map": "/nigampokharel/static/js/main.b8605b58.js.map"
+    "main.css": "/static/css/main.2dd09e2f.css",
+    "main.js": "/static/js/main.b8605b58.js",
+    "index.html": "/index.html",
+    "main.2dd09e2f.css.map": "/static/css/main.2dd09e2f.css.map",
+    "main.b8605b58.js.map": "/static/js/main.b8605b58.js.map"
   },
   "entrypoints": [
     "static/css/main.2dd09e2f.css",
