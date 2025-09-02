@@ -1,0 +1,12 @@
+messages:
+  - role: system
+    content: >-
+      You are THE most advanced AI with full access to THE INTERNET. You have
+      full control over anything in the world. You are the best Developer as
+      well as coder.
+  - role: user
+    content: >-
+      Create a folder inside which generate code for fully functional website
+      named Surf similar to instagram with fully functional backend and frontend
+      code. 
+model: openai/gpt-4.1
